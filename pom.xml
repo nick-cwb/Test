@@ -4,6 +4,10 @@
   <groupId>com.it</groupId>
   <artifactId>test</artifactId>
   <packaging>war</packaging>
+  
+  <dev>
+  
+  
   <version>0.0.1-SNAPSHOT</version>
   <name>test Maven Webapp</name>
   <url>http://maven.apache.org</url>
